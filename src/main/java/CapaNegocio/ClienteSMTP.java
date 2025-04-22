@@ -19,8 +19,8 @@ class ClienteSMTP {
     // Configuración para Gmail
     private static final String GMAIL_SMTP_SERVER = "smtp.gmail.com";
     private static final int GMAIL_SMTP_PORT = 587;
-    private static final String GMAIL_USER = "edmundozentenor12@gmail.com"; // Reemplazar con tu correo Gmail
-    private static final String GMAIL_PASSWORD = "lshd tslz gyof hjml"; // Reemplazar con tu contraseña de aplicación
+    private static final String GMAIL_USER = ""; // Reemplazar con tu correo Gmail
+    private static final String GMAIL_PASSWORD = ""; // Reemplazar con tu contraseña de aplicación
 
     /**
      * Envía un correo electrónico con los resultados de la consulta usando
